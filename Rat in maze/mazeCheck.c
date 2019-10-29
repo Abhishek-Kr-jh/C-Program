@@ -4,6 +4,7 @@
   #include<stdbool.h>
   #define SIZE 12
   bool mazeFun(char [SIZE][SIZE]);
+
   int main(int argc, char* argv[])
   {
      FILE *fp=NULL;
